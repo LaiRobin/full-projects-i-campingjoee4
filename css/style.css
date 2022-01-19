@@ -119,3 +119,9 @@ li a {
     background-color: #fff !important;
     transition: background-color 200ms linear;
 }
+
+.hero-image {
+    width: 1920px;
+    height: 1000px;
+    background-color: #845ec2;
+}
